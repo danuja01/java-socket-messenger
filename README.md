@@ -1,7 +1,6 @@
-# Java Chat Application
-<br>
-> This is a simple chat application that allows users to send broadcast messages as well as private messages to specific clients. It also automatically adds new users to the user list when they log in to the chat application, and their names will be visible in the list.
-<br>
+# Java Chat Application <br>
+>This is a simple chat application that allows users to send broadcast messages as well as private messages to specific clients. It also automatically adds new users to the user list when they log in to the chat application, and their names will be visible in the list.<br>
+
 > I used the Java Swing library to create a simple user interface for the application, and Java sockets to implement the chat functionality. This was a small assessment given as part of my studies at SLIIT to learn about sockets.
 
 
