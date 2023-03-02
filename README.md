@@ -1,7 +1,7 @@
 # Java Chat Application
 <br>
 > This is a simple chat application that allows users to send broadcast messages as well as private messages to specific clients. It also automatically adds new users to the user list when they log in to the chat application, and their names will be visible in the list.
-
+<br>
 > I used the Java Swing library to create a simple user interface for the application, and Java sockets to implement the chat functionality. This was a small assessment given as part of my studies at SLIIT to learn about sockets.
 
 
@@ -26,9 +26,9 @@ To run this application, follow these steps:
  ``git clone https://github.com/your-username/java-chat-application.git``
 
 
-**2. Open the project in your Java IDE**
-**3. Run the ChatServer.java file to start the server**
-**4. Run the ChatClient.java file to start the client**
+**2. Open the project in your Java IDE**<br>
+**3. Run the ChatServer.java file to start the server**<br>
+**4. Run the ChatClient.java file to start the client**<br>
 
 ## Usage
 1. Give IP adress as ``localhost``
